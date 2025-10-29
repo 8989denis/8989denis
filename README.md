@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Denis
+# 👋 Hi, I’m Denis a sensitive Soul
 
 💻 C/C++ & JavaScript developer | Fullstack Coder 💻 | Always learning 🚀
 
@@ -23,15 +23,21 @@
 
 ## 🚀 Projects
 
-### 🌐 SecureYourSoul Hub
+### 🌐 Secure Your Soul
 ![Project Screenshot](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)  
-C/C++ backend + JS frontend. Secure WebRTC + HTTPS server. [Repo →](https://github.com/8989denis/SecureYourSoul)
+<img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/2e22085f-57b1-47b1-8bbf-ca7f40364aa6" />
 
-### 🕹️ Game Engine
-C++ game engine with OpenGL. Real-time rendering and physics.  
-![Project GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
-[Repo →](https://github.com/8989denis/GameEngine)
+### 🕹️ Game Engine (Unreal Engine)
+![Unreal Engine GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+Projekt w Unreal Engine 5 z własnym systemem fizyki i renderingiem w czasie rzeczywistym.  
+Wsparcie dla Blueprint + C++ gameplay logic.  
+[Repo →](https://github.com/8989denis/UnrealGameEngine)
 
+### 🎨 Portfolio & Tools
+- Mini web apps i narzędzia w JS/HTML/CSS.  
+- Projekty edukacyjne w C++: algorytmy, AI, grafika.  
+- Wsparcie dla własnych serwerów i aplikacji webowych.  
+[Repo →](https://github.com/8989denis)
 ---
 
 ## 📫 Contact Me
