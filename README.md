@@ -65,7 +65,7 @@ I love building, learning, and exploring — from UE gameplay prototypes to full
   [![Listen on YouTube](https://img.shields.io/badge/🎵-Phantom_Liberty-red?style=flat)](https://music.youtube.com/watch?v=u15tEo0wsQI)
   [![Listen on YouTube](https://img.shields.io/badge/🎵-I_Really_Want_to_Stay_at_Your_House-red?style=flat)](https://music.youtube.com/watch?v=h4VJGNNSQnw)
   ## 🎧 Minecraft
-  [![Listen on YouTube](https://img.shields.io/badge/🎵-Ja_Kochamred?style=flat)](https://music.youtube.com/watch?v=HpEI3HZyX0M)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Ja_Kocham-red?style=flat)](https://music.youtube.com/watch?v=HpEI3HZyX0M)
   [![Listen on YouTube](https://img.shields.io/badge/🎵-Znowu_Mam_Bana-red?style=flat)](https://music.youtube.com/watch?v=7NZR9k72L9o)
   [![Listen on YouTube](https://img.shields.io/badge/🎵-Minecraft_Style-red?style=flat)](https://music.youtube.com/watch?v=ANAgDNzuiMs)
   [![Listen on YouTube](https://img.shields.io/badge/🎵-Hey_Brother-red?style=flat)](https://music.youtube.com/watch?v=l4qUwR5QgFk)
