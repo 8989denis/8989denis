@@ -56,8 +56,36 @@ I love building, learning, and exploring — from UE gameplay prototypes to full
 - 🛡️ **Tech & Hacking:** AI-assisted coding, server tinkering, OPSEC, Kali workflows  
 - 🏆 **Achievements:** 1st place in high school business simulator (computer service)  
 - 🌱 **Personal traits:** perfectionist, curious, self-developing physically, mentally & spiritually
+
+  ## 🎧 Cyberpunk 2077
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Chippin'_In-red?style=flat)](https://music.youtube.com/watch?v=_Ud65jWxMJg&si=oME3r597a2IksAca)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Hardest_to_Be-red?style=flat)](https://music.youtube.com/watch?v=Sgub1cv0aX0&si=JkmnwtWE6zhTStjf)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Night_City-red?style=flat)](https://music.youtube.com/watch?v=Ld37nwZz1RQ&si=BAMzUBjk_9qwLnIn)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Never_Fade_Away-red?style=flat)](https://music.youtube.com/watch?v=P4bKZT_Eg4A&si=-gYuxv9ACY9TTqlA)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Phantom_Liberty-red?style=flat)](https://music.youtube.com/watch?v=u15tEo0wsQI)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-I_Really_Want_to_Stay_at_Your_House-red?style=flat)](https://music.youtube.com/watch?v=h4VJGNNSQnw)
+  ## 🎧 Minecraft
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Ja_Kochamred?style=flat)](https://music.youtube.com/watch?v=HpEI3HZyX0M)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Znowu_Mam_Bana-red?style=flat)](https://music.youtube.com/watch?v=7NZR9k72L9o)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Minecraft_Style-red?style=flat)](https://music.youtube.com/watch?v=ANAgDNzuiMs)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Hey_Brother-red?style=flat)](https://music.youtube.com/watch?v=l4qUwR5QgFk)
   
-  [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=_Ud65jWxMJg&si=oME3r597a2IksAca) [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=OBmlUBKYFyw&si=b35e8b43f6YInbiK) [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=WzG1Vpby-k8&si=D2Vv7hf8ZMxHHmmw)
+  ## 🎧 CS:GO
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-BOMBSITE_A-red?style=flat)](https://music.youtube.com/watch?v=WxevjJBOO0o)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-BOMBSITE_B-red?style=flat)](https://music.youtube.com/watch?v=BttjSmLiv4o)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-AWP-red?style=flat)](https://music.youtube.com/watch?v=-NUKvMVCSB0)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-ECO-red?style=flat)](https://music.youtube.com/watch?v=2pVWz9mLizk)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-GROTTO-red?style=flat)](https://musicyoutube.com/watch?v=E_LqLbjHRkw)
+  ## 🎧 Valorant
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-LAST_SHOT-red?style=flat)](https://music.youtube.com/watch?v=cLx3tyzht3Y)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-SUPERPOWER_–_KISS_OF_LIFE-red?style=flat)](https://music.youtube.com/watch?v=CdZN8PI3MqM)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Ticking_Away-red?style=flat)](https://music.youtube.com/watch?v=CdZN8PI3MqM)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Fire_Again_-_Znów_Ogień-red?style=flat)](https://music.youtube.com/watch?v=DqgK4llE1cw)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Die_For_You-red?style=flat)](https://music.youtube.com/watch?v=h7MYJghRWt0)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-GREATER_THAN_ONE-WSZYSCY_ZA_JEDNEGO-red?style=flat)](https://music.youtube.com/watch?v=iYFh_XAXSPk)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-WHY_WE_FIGHT_//_EGO-red?style=flat)](https://music.youtube.com/watch?v=jAj_nbWYb7g)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-BRING_IT_ALL_//_IN_MY_ZONE-red?style=flat)](https://music.youtube.com/watch?v=WyYiVdNhTE0)
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Can’t_Slow_Me_Down-red?style=flat)](https://music.youtube.com/watch?v=xU2U73Tk-DM)
 
 ---
 
