@@ -57,8 +57,7 @@ I love building, learning, and exploring — from UE gameplay prototypes to full
 - 🏆 **Achievements:** 1st place in high school business simulator (computer service)  
 - 🌱 **Personal traits:** perfectionist, curious, self-developing physically, mentally & spiritually
   
-  [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=_Ud65jWxMJg&si=oME3r597a2IksAca) [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=OBmlUBKYFyw&si=b35e8b43f6YInbiK) [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)]([https://music.youtube.com/watch?v=_Ud65jWxMJg&si=oME3r597a2IksAca](https://music.youtube.com/watch?v=WzG1Vpby-k8&si=D2Vv7hf8ZMxHHmmw))
-
+  [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=_Ud65jWxMJg&si=oME3r597a2IksAca) [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=OBmlUBKYFyw&si=b35e8b43f6YInbiK) [![Listen on YouTube](https://img.shields.io/badge/🎵-Listen_on_YouTube-red?style=flat)](https://music.youtube.com/watch?v=WzG1Vpby-k8&si=D2Vv7hf8ZMxHHmmw)
 
 ---
 
