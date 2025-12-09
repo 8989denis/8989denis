@@ -29,7 +29,7 @@ I love building, learning, and exploring — from UE gameplay prototypes to full
 ![Open Issues](https://img.shields.io/github/issues/8989denis/REPO_NAME)
 ![PRs](https://img.shields.io/github/issues-pr/8989denis/REPO_NAME)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8989denis&show_icons=true&hide=issues&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8989denis&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=8989denis&theme=radical)
-
+[![Denis profile views](https://u8views.com/api/v1/github/profiles/30268500/views/day-week-month-total-count.svg)](https://u8views.com/github/8989denis)
 
 
 > 🔹 Dynamic stats updated in real-time from your GitHub activity  
