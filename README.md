@@ -1,7 +1,7 @@
 # 👋 Hey! I’m Denis — a Sensitive Soul
 
-💻 Fullstack C/C++ & JavaScript Developer • UE 5.6 (Metahumans) • Junior, learning fast 🚀  
-📍 22 y.o. • privacy-minded • Pentester & server hardening enthusiast  
+💻 Fullstack C/C++ / JavaScript / TypeScript / Rust Developer • UE 5.6 (Metahumans) • Junior, learning fast 🚀  
+📍 23 y.o. • privacy-minded • Pentester & server hardening enthusiast  
 
 I love building, learning, and exploring — from UE gameplay prototypes to fullstack Node.js backends, while also diving into security and holistic self-growth.  
 
@@ -11,14 +11,13 @@ I love building, learning, and exploring — from UE gameplay prototypes to full
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-003545?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-- **C++** — gameplay, UE C++ coding, algorithms  
-- **Unreal Engine 5.6** — Metahumans, Blueprints, UI/menus, gameplay prototypes  
-- **JavaScript / Node.js** — backend, custom servers, automation tools  
+- **C/C++** — Gameplay, UE C++ coding, Algorithms  
+- **Unreal Engine 5.6** — Metahumans, Blueprints, UI/menus, Gameplay prototypes  
 - **Databases** — MongoDB, MySQL, SQL basics  
-- **DevOps / Security / Pentesting** — TLS/HTTP2, ACME, OCSP, LRU caches, Kali workflows, vulnerability checks, OPSEC routines  
-- **Web / Frontend** — HTML, CSS, JS  
-- **Scripting / Automation** — Bash/Batch  
-
+- **DevOps / Security / Pentesting** — TLS/HTTP2, ACME, OCSP, LRU caches, Kali workflows, Vulnerability checks, OPSEC routines  
+- **Web / Fullstack** — HTML / HTMX , CSS / Tailwind , JavaScript / TypeScript, NodeJS, Rust, WASM.
+- **Scripting / Automation** — Bash/Batch/Powershell
+    
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -26,13 +25,12 @@ I love building, learning, and exploring — from UE gameplay prototypes to full
 ![Profile Views](https://komarev.com/ghpvc/?username=8989denis&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/8989denis?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/8989denis?style=social)
-![Open Issues](https://img.shields.io/github/issues/8989denis/REPO_NAME)
-![PRs](https://img.shields.io/github/issues-pr/8989denis/REPO_NAME)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8989denis&show_icons=true&hide=issues&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8989denis&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=8989denis&theme=radical)
+![Open Issues](https://img.shields.io/github/issues/8989denis/Souls)
+![PRs](https://img.shields.io/github/issues-pr/8989denis/Souls)
 [![Denis profile views](https://u8views.com/api/v1/github/profiles/30268500/views/day-week-month-total-count.svg)](https://u8views.com/github/8989denis)
+![GitHub Insights](https://card.shiina.xyz/card/Secure-Your-Soul?theme=github_dark&scope=org)
 
-
-> 🔹 Dynamic stats updated in real-time from your GitHub activity  
+![GitHub Insights](https://git-hub-insights-virid.vercel.app/api/insight?username=8989denis&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true)
 
 ---
 
@@ -92,8 +90,9 @@ I love building, learning, and exploring — from UE gameplay prototypes to full
 ## 📫 Contact
 
 - Email: `contact.secureyoursoul@gmail.com`  
-- GitHub: [8989denis](https://github.com/8989denis)  
-- Discord: `nonamelol.`  
+- GitHub: [8989denis](https://github.com/8989denis)
+- Matrix: [@anonymousnoname:matrix.org
+](https://matrix.to/#/@anonymousnoname:matrix.org)
 > Let’s build, explore, and level up together! 🚀
 ---
 
