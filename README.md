@@ -1,10 +1,12 @@
-![Followers](https://img.shields.io/github/followers/8989denis?style=social) &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/8989denis?style=social) &nbsp;
+![Followers](https://img.shields.io/github/followers/8989denis?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logo=github&logoColor=white) &nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/8989denis?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logo=github&logoColor=white) &nbsp;
 [![Denis profile views](https://u8views.com/api/v1/github/profiles/30268500/views/day-week-month-total-count.svg)](https://u8views.com/github/8989denis)
 
 <br/>
 
-![GitHub Insights](https://git-hub-insights-virid.vercel.app/api/insight?username=8989denis&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true)
+<p align="center">
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=8989denis&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 # 👋 Hey! I'm Denis Full of Love Sensitive Soul
 
@@ -42,17 +44,109 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 
 ---
 
-### Home Lab & Self-Hosted Infrastructure
-**Self-directed** • Ongoing
+## 🛠 Tech Stack & Skills
 
-| Service | Description |
-|---------|-------------|
-| **Proxmox VE** | Virtualization, LXC containers, VM management |
-| **Nextcloud** | Self-hosted cloud storage, file sync, collaboration |
-| **Pi-hole** | DNS-level ad blocking, network-wide filtering |
-| **Nginx** | Reverse proxy, TLS termination, load balancing |
-| **Vaultwarden** | Self-hosted Bitwarden-compatible password manager |
-| **WireGuard** | VPN for secure remote access |
+<table>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="35" title="HTML5" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="35" title="CSS3" /></a>
+      <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="35" title="Tailwind CSS" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="35" title="JavaScript" /></a>
+      <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="35" title="TypeScript" /></a>
+      <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="35" title="React" /></a>
+      <a href="https://dioxuslabs.com" target="_blank"><img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/main/packages/desktop/src/assets/default_icon.png" height="35" title="Dioxus" /></a>
+    </td>
+    <td>HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Dioxus (Rust + WASM)</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend & Databases</b></td>
+    <td>
+      <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.simpleicons.org/rust/white" height="35" title="Rust" /></a>
+      <a href="https://webassembly.org" target="_blank"><img src="https://cdn.simpleicons.org/webassembly/white" height="35" title="WebAssembly" /></a>
+      <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="35" title="Node.js" /></a>
+      <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="35" title="MySQL" /></a>
+      <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="35" title="PostgreSQL" /></a>
+      <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="35" title="MongoDB" /></a>
+      <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="35" title="Redis" /></a>
+    </td>
+    <td>Rust, Node.js, SQL (triggers, stored procedures), MySQL, PostgreSQL, MongoDB, Redis</td>
+  </tr>
+    <tr>
+    <td><b>📱 Mobile</b></td>
+    <td>
+      <a href="https://dioxuslabs.com" target="_blank"><img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/main/packages/desktop/src/assets/default_icon.png" height="35" title="Dioxus" /></a>
+    </td>
+    <td>Dioxus (Android / iOS)</td>
+  </tr>
+  <tr>
+    <td><b>🖥️ Desktop</b></td>
+    <td>
+      <a href="https://dioxuslabs.com" target="_blank"><img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/main/packages/desktop/src/assets/default_icon.png" height="35" title="Dioxus" /></a>
+      <a href="https://www.electronjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=electron" height="35" title="Electron" /></a>
+    </td>
+    <td>Dioxus, Electron</td>
+  </tr>
+  <tr>
+    <td><b>🎮 Game Dev</b></td>
+    <td>
+      <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="35" title="C++" /></a>
+      <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="35" title="C++" /></a>
+      <a href="https://www.unrealengine.com" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" height="35" title="Unreal Engine 5.6" /></a>
+    </td>
+    <td>C/C++, Unreal Engine 5.6 (Metahumans, Blueprints, UI/menus, Gameplay prototypes)</td>
+  </tr>
+  <tr>
+    <td><b>🖥️ DevOps & Infrastructure</b></td>
+    <td>
+      <a href="https://www.kernel.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="35" title="Linux" /></a>
+      <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" height="35" title="Windows" /></a>
+      <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="35" title="Docker" /></a>
+      <a href="https://podman.io" target="_blank"><img src="https://cdn.simpleicons.org/podman/white" height="35" title="Podman" /></a>
+      <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="35" title="Git" /></a>
+      <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35" title="GitHub" /></a>
+      <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="35" title="GitHub Actions" /></a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="35" title="Bash" /></a>
+      <a href="https://microsoft.com/powershell" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" height="35" title="PowerShell" /></a>
+      <a href="https://www.proxmox.com" target="_blank"><img src="https://cdn.simpleicons.org/proxmox/white" height="35" title="Proxmox VE" /></a>
+<a href="https://nginx.org" target="_blank"><img src="https://cdn.simpleicons.org/nginx/white" height="35" title="Nginx" /></a>
+<a href="https://www.wireguard.com" target="_blank"><img src="https://cdn.simpleicons.org/wireguard/white" height="35" title="WireGuard" /></a>
+      <a href="https://www.kali.org" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/white" height="35" title="Kali Linux" /></a>
+    </td>
+    <td>Linux, Windows, Docker, Podman, Git, Github, GitHub Actions, Bash, PowerShell<br/>Proxmox VE, LXC, Nextcloud, Pi-hole, Nginx, Vaultwarden, WireGuard<br/>TLS/HTTP2, ACME, OCSP, LRU caches, Kali Linux, Kali workflows, Vulnerability checks, OPSEC routines</td>
+  </tr>
+  <tr>
+    <td><b>🏢 Enterprise / Legacy</b></td>
+    <td>
+      <a href="https://www.appeon.com" target="_blank"><img src="https://proicons.com/icon/373604.svg" height="35" title="PowerBuilder" style="filter: brightness(0) invert(1);" /></a>
+    </td>
+    <td>PowerBuilder, enterprise accounting &amp; payroll systems</td>
+  </tr>
+  <tr>
+    <td><b>📋 Project Management</b></td>
+    <td>
+      <a href="https://www.atlassian.com/software/jira" target="_blank" ><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="35" title="Jira" /></a>
+    </td>
+    <td>Jira, agile workflow, sprint planning</td>
+  </tr>
+  <tr>
+    <td><b>🧬 Systems / Kernel</b></td>
+    <td>
+      <a href="https://www.kernel.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="35" title="Linux" /></a>
+    </td>
+    <td>Linux kernel compilation, performance tuning, boot optimization (<a href="https://github.com/Secure-Your-Soul/Fearless">Fearless OS</a>)</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ IDE & Editors</b></td>
+    <td>
+      <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="35" title="VS Code" /></a>
+      <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" height="35" title="Visual Studio" /></a>
+      <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" height="35" title="Android Studio" /></a>
+    </td>
+    <td>VS Code, Visual Studio, Android Studio</td>
+  </tr>
+</table>
 
 ---
 
@@ -61,60 +155,44 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 
 | Project | Description | Link | Issues | Pull Requests |
 |---------|-------------|------|--------|---------------|
-| Secure Your Soul Project | HTMX, Tailwind, WASM | [Website →](https://SecureSouls.com) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SecureSouls.com) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SecureSouls.com) |
+| Secure Your Soul Project | Dioxus + Tailwind, Rust + WASM | [Website →](https://SecureSouls.com) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SecureSouls.com) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SecureSouls.com) |
+| Souls | core subdomain for Secure Your Soul | [Repo →](https://github.com/Secure-Your-Soul/Souls) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Souls) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Souls) |
 | Fearless | Secure, Privacy, Zero Trust Linux-based OS on custom kernel | [Repo →](https://github.com/Secure-Your-Soul/Fearless) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Fearless) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Fearless) |
 | FearInit | init system for Fearless OS | [Repo →](https://github.com/Secure-Your-Soul/FearInit) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/FearInit) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/FearInit) |
-| Souls | core modules for Secure Your Soul | [Repo →](https://github.com/Secure-Your-Soul/Souls) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Souls) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Souls) |
 
-![GitHub Insights](https://card.shiina.xyz/card/Secure-Your-Soul?theme=github_dark&scope=org)
+[![GitHub Insights](https://card.shiina.xyz/card/8989denis?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/Secure-Your-Soul)[![GitHub Insights](https://card.shiina.xyz/card/Secure-Your-Soul?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/Secure-Your-Soul)
+
 
 ---
 
 ## 🎯 What I'm looking for
 
-- Junior/mid fullstack/embedded or security role
-- Remote or hybrid (Poland/EU)
-- Team that values clean code, security, and continuous learning
-
----
-
-## 🛠 Tech Stack & Skills
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
-![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat&logo=htmx&logoColor=white&labelColor=3D72D7)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=000000)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white&labelColor=654FF0)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white&labelColor=313131)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-003545?style=flat&logo=mysql&logoColor=white&labelColor=003545)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=DC382D)
-![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=white&labelColor=787CB5)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=microsoft&logoColor=white&labelColor=0078D6)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white&labelColor=5391FE)
-![PowerBuilder](https://img.shields.io/badge/PowerBuilder-0FAAFF?style=flat&logo=sap&logoColor=white&labelColor=0FAAFF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white&labelColor=892CA0)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white&labelColor=2088FF)
-
-- **C/C++** — Gameplay, UE C++ coding, Algorithms
-- **Unreal Engine 5.6** — Metahumans, Blueprints, UI/menus, Gameplay prototypes
-- **Databases** — MongoDB, MySQL, PostgreSQL, Redis
-- **Enterprise / Legacy** — PowerBuilder, SQL (triggers, stored procedures)
-- **Project Management** — Jira, agile workflow, sprint planning
-- **DevOps / Security / Pentesting** — TLS/HTTP2, ACME, OCSP, LRU caches, Kali workflows, Vulnerability checks, OPSEC routines
-- **Infrastructure / Self-Hosting** — Proxmox VE, LXC, Nextcloud, Pi-hole, Nginx, Vaultwarden, WireGuard
-- **Systems / Kernel** — Linux kernel compilation, performance tuning, boot optimization (Fearless OS)
-- **Web / Fullstack** — Rust (Axum + Askama + SQLX), HTMX, Tailwind, WASM
-- **Scripting / Automation** — Bash/Batch/PowerShell
+<table>
+  <tr>
+    <td><b>💼 Role</b></td>
+    <td>Junior / Mid <b>Fullstack</b>, <b>Embedded</b>, or <b>Security</b> Engineer</td>
+  </tr>
+  <tr>
+    <td><b>🏢 Environment</b></td>
+    <td>Product company or R&amp;D team — not outsourcing body-shop</td>
+  </tr>
+  <tr>
+    <td><b>📍 Location</b></td>
+    <td>Remote or hybrid (Poland / EU)</td>
+  </tr>
+  <tr>
+    <td><b>🧠 Stack I'd love</b></td>
+    <td>Rust, C/C++, WebAssembly, Linux, security hardening, low-level systems</td>
+  </tr>
+  <tr>
+    <td><b>🤝 Team culture</b></td>
+    <td>Clean code, code reviews, security-first mindset, continuous learning</td>
+  </tr>
+  <tr>
+    <td><b>🚫 Not interested in</b></td>
+    <td>Legacy PHP/WordPress maintenance</td>
+  </tr>
+</table>
 
 ---
 
@@ -175,3 +253,9 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 [![Listen on YouTube](https://img.shields.io/badge/🎵-WHY_WE_FIGHT_//_EGO-red?style=flat)](https://music.youtube.com/watch?v=jAj_nbWYb7g)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-BRING_IT_ALL_//_IN_MY_ZONE-red?style=flat)](https://music.youtube.com/watch?v=WyYiVdNhTE0)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-Can't_Slow_Me_Down-red?style=flat)](https://music.youtube.com/watch?v=xU2U73Tk-DM)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=footer" width="100%"/>
+  <b>Denis Kontek</b> • 2017-2026 <br/>
+  <i>Privacy Freedom</i>
+</p>
