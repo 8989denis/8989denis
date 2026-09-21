@@ -1,5 +1,4 @@
 ![Followers](https://img.shields.io/github/followers/8989denis?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logo=github&logoColor=white) &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/8989denis?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logo=github&logoColor=white) &nbsp;
 [![Denis profile views](https://u8views.com/api/v1/github/profiles/30268500/views/day-week-month-total-count.svg)](https://u8views.com/github/8989denis)
 
 <br/>
@@ -160,7 +159,7 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 | Fearless | Secure, Privacy, Zero Trust Linux-based OS on custom kernel | [Repo →](https://github.com/Secure-Your-Soul/Fearless) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Fearless) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Fearless) |
 | FearInit | init system for Fearless OS | [Repo →](https://github.com/Secure-Your-Soul/FearInit) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/FearInit) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/FearInit) |
 
-[![GitHub Insights](https://card.shiina.xyz/card/8989denis?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/Secure-Your-Soul)[![GitHub Insights](https://card.shiina.xyz/card/Secure-Your-Soul?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/Secure-Your-Soul)
+[![GitHub Insights](https://card.shiina.xyz/card/8989denis?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/8989denis?tab=repositories)[![GitHub Insights](https://card.shiina.xyz/card/Secure-Your-Soul?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/Secure-Your-Soul)
 
 
 ---
