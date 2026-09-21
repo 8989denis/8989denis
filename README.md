@@ -1,4 +1,4 @@
-![Followers](https://img.shields.io/github/followers/8989denis?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logo=github&logoColor=white) &nbsp;
+[![Followers](https://img.shields.io/github/followers/8989denis?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logo=github&logoColor=white)](https://github.com/8989denis?tab=followers) &nbsp;
 [![Denis profile views](https://u8views.com/api/v1/github/profiles/30268500/views/day-week-month-total-count.svg)](https://u8views.com/github/8989denis)
 
 <br/>
@@ -90,9 +90,9 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
   <tr>
     <td><b>🎮 Game Dev</b></td>
     <td>
-      <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="35" title="C++" /></a>
+      <a href="https://www.c-language.org" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="35" title="C" /></a>
       <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="35" title="C++" /></a>
-      <a href="https://www.unrealengine.com" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" height="35" title="Unreal Engine 5.6" /></a>
+      <a href="https://www.unrealengine.com" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" height="35" title="Unreal Engine" /></a>
     </td>
     <td>C/C++, Unreal Engine 5.6 (Metahumans, Blueprints, UI/menus, Gameplay prototypes)</td>
   </tr>
@@ -154,10 +154,10 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 
 | Project | Description | Link | Issues | Pull Requests |
 |---------|-------------|------|--------|---------------|
-| Secure Your Soul Project | Dioxus + Tailwind, Rust + WASM | [Website →](https://SecureSouls.com) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SecureSouls.com) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SecureSouls.com) |
-| Souls | core subdomain for Secure Your Soul | [Repo →](https://github.com/Secure-Your-Soul/Souls) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Souls) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Souls) |
-| Fearless | Secure, Privacy, Zero Trust Linux-based OS on custom kernel | [Repo →](https://github.com/Secure-Your-Soul/Fearless) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Fearless) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Fearless) |
-| FearInit | init system for Fearless OS | [Repo →](https://github.com/Secure-Your-Soul/FearInit) | ![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/FearInit) | ![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/FearInit) |
+| Secure Your Soul Project | Dioxus + Tailwind, Rust + WASM | [Website →](https://SecureSouls.com) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/pulls) |
+| Souls | core subdomain for Secure Your Soul | [Repo →](https://github.com/Secure-Your-Soul/Souls) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/pulls) |
+| Fearless | Secure, Privacy, Zero Trust Linux-based OS on custom kernel | [Repo →](https://github.com/Secure-Your-Soul/Fearless) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/pulls) |
+| FearInit | init system for Fearless OS | [Repo →](https://github.com/Secure-Your-Soul/FearInit) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/FearInit)](https://github.com/Secure-Your-Soul/FearInit/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/FearInit)](https://github.com/Secure-Your-Soul/FearInit/pulls) |
 
 [![GitHub Insights](https://card.shiina.xyz/card/8989denis?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/8989denis?tab=repositories)[![GitHub Insights](https://card.shiina.xyz/card/Secure-Your-Soul?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/Secure-Your-Soul)
 
