@@ -1,5 +1,9 @@
-[![Followers](https://img.shields.io/github/followers/8989denis?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logo=github&logoColor=white)](https://github.com/8989denis?tab=followers) &nbsp;
-[![Denis profile views](https://u8views.com/api/v1/github/profiles/30268500/views/day-week-month-total-count.svg)](https://u8views.com/github/8989denis)
+<div align="center">
+  <a href="https://github.com/8989denis?tab=followers">
+    <img src="https://img.shields.io/github/followers/8989denis?style=for-the-badge&amp;color=0d0d0d&amp;labelColor=1a1a1a&amp;logo=github&amp;logoColor=white" alt="Followers"></a>
+  <a href="https://u8views.com/github/8989denis">
+    <img src="https://u8views.com/api/v1/github/profiles/30268500/views/day-week-month-total-count.svg" alt="Denis profile views"></a>
+</div>
 
 <br/>
 
@@ -70,7 +74,7 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
       <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="35" title="MongoDB" /></a>
       <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="35" title="Redis" /></a>
     </td>
-    <td>Rust, Node.js, SQL (triggers, stored procedures), MySQL, PostgreSQL, MongoDB, Redis</td>
+    <td>Rust, WASM, Node.js, SQL (triggers, stored procedures), MySQL, PostgreSQL, MongoDB, Redis</td>
   </tr>
     <tr>
     <td><b>📱 Mobile</b></td>
