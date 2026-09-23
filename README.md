@@ -11,16 +11,24 @@
   <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=8989denis&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
-# 👋 Hey! I'm Denis Full of Love Sensitive Soul
+# 👋 Hey! I'm Denis — Full of Love, Sensitive Soul
 
 🌐 Polish (native) • English (B1+) • German (A2) • e-mail: [contact@securesouls.com](mailto:contact@securesouls.com) • Matrix: [@anonymousnoname:matrix.org](https://matrix.to/#/@anonymousnoname:matrix.org)
 
-> Let's build, explore, and level up together! 🚀
+> Rust, security, and too much Cyberpunk 2077 or The Witcher 3 :D
 
-💻 Junior Software Developer • Pentester • Fullstack C/C++ / Rust Developer • Focus on Security Hardening • UE 5.6 (Metahumans)  
-📍 23 y.o. • Privacy-Minded
+💻 Junior Software Developer • Penetration Tester • Fullstack Developer • Systems Programmer (C/C++, Rust) • Focus on Security Hardening • Unreal Engine 5.6 (MetaHumans)  
+📍 Poland 🇵🇱 • 23 • Privacy-minded
 
-I build secure, privacy-first systems — from UE gameplay prototypes to fullstack Rust backends. 9 months of commercial experience in enterprise accounting and payroll systems (PowerBuilder, SQL), with a focus on security and embedded systems.
+I build secure, privacy-first systems — from Unreal Engine gameplay 
+prototypes to fullstack Rust backends.
+
+9 months of commercial experience in enterprise accounting and payroll 
+systems (PowerBuilder, SQL). Outside of work, I focus on security 
+hardening and embedded systems.
+
+I started with games, stayed for systems. PowerBuilder taught me 
+discipline (and patience).
 
 ---
 
@@ -98,7 +106,7 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
       <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="35" title="C++" /></a>
       <a href="https://www.unrealengine.com" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" height="35" title="Unreal Engine" /></a>
     </td>
-    <td>C/C++, Unreal Engine 5.6 (Metahumans, Blueprints, UI/menus, Gameplay prototypes)</td>
+    <td>C/C++, Unreal Engine 5.6 (MetaHumans, Blueprints, UI/menus, Gameplay prototypes)</td>
   </tr>
   <tr>
     <td><b>🖥️ DevOps & Infrastructure</b></td>
@@ -113,11 +121,15 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
       <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="35" title="Bash" /></a>
       <a href="https://microsoft.com/powershell" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" height="35" title="PowerShell" /></a>
       <a href="https://www.proxmox.com" target="_blank"><img src="https://cdn.simpleicons.org/proxmox/white" height="35" title="Proxmox VE" /></a>
-<a href="https://nginx.org" target="_blank"><img src="https://cdn.simpleicons.org/nginx/white" height="35" title="Nginx" /></a>
-<a href="https://www.wireguard.com" target="_blank"><img src="https://cdn.simpleicons.org/wireguard/white" height="35" title="WireGuard" /></a>
+      <a href="https://linuxcontainers.org" target="_blank"><img src="https://cdn.simpleicons.org/linuxcontainers/white" height="35" title="LXC" /></a>
+      <a href="https://nextcloud.com" target="_blank"><img src="https://cdn.simpleicons.org/nextcloud/white" height="35" title="Nextcloud" /></a>
+      <a href="https://pi-hole.net" target="_blank"><img src="https://cdn.simpleicons.org/pihole/white" height="35" title="Pi-hole" /></a>
+      <a href="https://nginx.org" target="_blank"><img src="https://cdn.simpleicons.org/nginx/white" height="35" title="Nginx" /></a>
+      <a href="https://vaultwarden.org" target="_blank"><img src="https://cdn.simpleicons.org/bitwarden/white" height="35" title="Vaultwarden" /></a>
+      <a href="https://www.wireguard.com" target="_blank"><img src="https://cdn.simpleicons.org/wireguard/white" height="35" title="WireGuard" /></a>
       <a href="https://www.kali.org" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/white" height="35" title="Kali Linux" /></a>
     </td>
-    <td>Linux, Windows, Docker, Podman, Git, Github, GitHub Actions, Bash, PowerShell<br/>Proxmox VE, LXC, Nextcloud, Pi-hole, Nginx, Vaultwarden, WireGuard<br/>TLS/HTTP2, ACME, OCSP, LRU caches, Kali Linux, Kali workflows, Vulnerability checks, OPSEC routines</td>
+    <td>Linux, Windows, Docker, Podman, Git, GitHub, GitHub Actions, Bash, PowerShell<br/>Proxmox VE, LXC, Nextcloud, Pi-hole, Nginx, Vaultwarden, WireGuard<br/>TLS, HTTP/2, ACME, OCSP, LRU caches, Kali Linux (vulnerability checks, OPSEC routines)</td>
   </tr>
   <tr>
     <td><b>🏢 Enterprise / Legacy</b></td>
@@ -153,15 +165,16 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 
 ---
 
-### Open Source & Personal Projects
+## Open Source & Personal Projects (Secure Your Soul)
 **Self-directed** • Ongoing
 
 | Project | Description | Link | Issues | Pull Requests |
 |---------|-------------|------|--------|---------------|
-| Secure Your Soul Project | Dioxus + Tailwind, Rust + WASM | [Website →](https://SecureSouls.com) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/pulls) |
-| Souls | core subdomain for Secure Your Soul | [Repo →](https://github.com/Secure-Your-Soul/Souls) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/pulls) |
-| Fearless | Secure, Privacy, Zero Trust Linux-based OS on custom kernel | [Repo →](https://github.com/Secure-Your-Soul/Fearless) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/pulls) |
-| FearInit | init system for Fearless OS | [Repo →](https://github.com/Secure-Your-Soul/FearInit) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/FearInit)](https://github.com/Secure-Your-Soul/FearInit/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/FearInit)](https://github.com/Secure-Your-Soul/FearInit/pulls) |
+| SoulsAPI | 🦀 Rust API for Secure Your Soul services | [Repo →](https://github.com/Secure-Your-Soul/SoulsAPI) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SoulsAPI)](https://github.com/Secure-Your-Soul/SoulsAPI/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SoulsAPI)](https://github.com/Secure-Your-Soul/SoulsAPI/pulls) |
+| SecureSouls.com | Dioxus + Tailwind, 🦀 Rust + WASM | [Website →](https://SecureSouls.com) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/pulls) |
+| Souls | SecureSouls social media subdomain | [Repo →](https://github.com/Secure-Your-Soul/Souls) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/pulls) |
+| Fearless | Secure, Private, Zero Trust Linux-based OS with a custom kernel | [Repo →](https://github.com/Secure-Your-Soul/Fearless) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/pulls) |
+| FearInit | Init system for Fearless OS | [Repo →](https://github.com/Secure-Your-Soul/FearInit) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/FearInit)](https://github.com/Secure-Your-Soul/FearInit/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/FearInit)](https://github.com/Secure-Your-Soul/FearInit/pulls) |
 
 [![GitHub Insights](https://card.shiina.xyz/card/8989denis?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/8989denis?tab=repositories)[![GitHub Insights](https://card.shiina.xyz/card/Secure-Your-Soul?bg_color=0d0d0d&title_color=ff2a2a&text_color=e0e0e0&icon_color=ff2a2a&theme=github_dark&lang_count=10&affiliations=affiliated&animate=true&scope=org)](https://github.com/Secure-Your-Soul)
 
@@ -173,11 +186,11 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 <table>
   <tr>
     <td><b>💼 Role</b></td>
-    <td>Junior / Mid <b>Fullstack</b>, <b>Embedded</b>, or <b>Security</b> Engineer</td>
+    <td>Junior / Mid-level <b>Fullstack</b>, <b>Embedded</b>, or <b>Security</b> Engineer</td>
   </tr>
   <tr>
     <td><b>🏢 Environment</b></td>
-    <td>Product company or R&amp;D team — not outsourcing body-shop</td>
+    <td>Product company, R&D team, or long-term in-house project</td>
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
@@ -193,7 +206,7 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
   </tr>
   <tr>
     <td><b>🚫 Not interested in</b></td>
-    <td>Legacy PHP/WordPress maintenance</td>
+    <td>Legacy PHP/WordPress maintenance, short-term outsourcing gigs</td>
   </tr>
 </table>
 
@@ -201,7 +214,7 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 
 ## 🧑‍💻 About Me
 
-🎯 **Security/Privacy-Focus Builder in Holistic life and PermaCulture**
+🎯 **Security/Privacy-Focus Builder - Holistic life and PermaCulture**
 
 <table>
   <tr>
@@ -248,7 +261,7 @@ I build secure, privacy-first systems — from UE gameplay prototypes to fullsta
 
 ### Valorant
 [![Listen on YouTube](https://img.shields.io/badge/🎵-LAST_SHOT-red?style=flat)](https://music.youtube.com/watch?v=cLx3tyzht3Y)
-[![Listen on YouTube](https://img.shields.io/badge/🎵-SUPERPOWER_–_KISS_OF_LIFE-red?style=flat)](https://music.youtube.com/watch?v=CdZN8PI3MqM)
+[![Listen on YouTube](https://img.shields.io/badge/🎵-SUPERPOWER-KISS_OF_LIFE-red?style=flat)](https://music.youtube.com/watch?v=DX4BE9GmpH4&si=NH9jj2ItgOXy2zLG)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-Ticking_Away-red?style=flat)](https://music.youtube.com/watch?v=CdZN8PI3MqM)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-Fire_Again-red?style=flat)](https://music.youtube.com/watch?v=DqgK4llE1cw)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-Die_For_You-red?style=flat)](https://music.youtube.com/watch?v=h7MYJghRWt0)
