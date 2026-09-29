@@ -171,6 +171,7 @@ discipline (and patience).
 | Project | Description | Link | Issues | Pull Requests |
 |---------|-------------|------|--------|---------------|
 | SoulsAPI | 🦀 Rust API for Secure Your Soul services | [Repo →](https://github.com/Secure-Your-Soul/SoulsAPI) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SoulsAPI)](https://github.com/Secure-Your-Soul/SoulsAPI/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SoulsAPI)](https://github.com/Secure-Your-Soul/SoulsAPI/pulls) |
+| SoulsCLI | CLI for managing programming environments | [Repo →](https://github.com/Secure-Your-Soul/SoulsCLI) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SoulsCLI)](https://github.com/Secure-Your-Soul/SoulsCLI/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SoulsCLI)](https://github.com/Secure-Your-Soul/SoulsCLI/pulls) |
 | SecureSouls.com | Dioxus + Tailwind, 🦀 Rust + WASM | [Website →](https://SecureSouls.com) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/SecureSouls.com)](https://github.com/Secure-Your-Soul/SecureSouls.com/pulls) |
 | Souls | SecureSouls social media subdomain | [Repo →](https://github.com/Secure-Your-Soul/Souls) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Souls)](https://github.com/Secure-Your-Soul/Souls/pulls) |
 | Fearless | Secure, Private, Zero Trust Linux-based OS with a custom kernel | [Repo →](https://github.com/Secure-Your-Soul/Fearless) | [![Open Issues](https://img.shields.io/github/issues/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/issues) | [![PRs](https://img.shields.io/github/issues-pr/Secure-Your-Soul/Fearless)](https://github.com/Secure-Your-Soul/Fearless/pulls) |
@@ -261,7 +262,7 @@ discipline (and patience).
 
 ### Valorant
 [![Listen on YouTube](https://img.shields.io/badge/🎵-LAST_SHOT-red?style=flat)](https://music.youtube.com/watch?v=cLx3tyzht3Y)
-[![Listen on YouTube](https://img.shields.io/badge/🎵-SUPERPOWER-KISS_OF_LIFE-red?style=flat)](https://music.youtube.com/watch?v=DX4BE9GmpH4&si=NH9jj2ItgOXy2zLG)
+[![Listen on YouTube](https://img.shields.io/badge/🎵-SUPERPOWER_KISS_OF_LIFE-red?style=flat)](https://music.youtube.com/watch?v=DX4BE9GmpH4&si=NH9jj2ItgOXy2zLG)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-Ticking_Away-red?style=flat)](https://music.youtube.com/watch?v=CdZN8PI3MqM)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-Fire_Again-red?style=flat)](https://music.youtube.com/watch?v=DqgK4llE1cw)
 [![Listen on YouTube](https://img.shields.io/badge/🎵-Die_For_You-red?style=flat)](https://music.youtube.com/watch?v=h7MYJghRWt0)
